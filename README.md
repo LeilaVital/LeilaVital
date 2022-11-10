@@ -26,5 +26,5 @@
   </div>
   
   
-   ![Snake animation](https://github.com/LeilaVital/leila/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/LeilaVital/LeilaVital/blob/output/github-contribution-grid-snake.svg)
  
