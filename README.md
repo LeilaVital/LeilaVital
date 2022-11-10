@@ -1,13 +1,13 @@
-- ## Oiiiii, eu sou a Leila!
+- ## Oiiiii, eu sou a Leila! ✌😎
 
-- Seja bem-vindo(a)! ✌😎
-- Estudando desenvolvimento de sistemas! 🤖
-- contate-me no e-mail: leilabarbosavital@gmail.com 📩
+- Seja bem-vindo(a)! 👀
+- Estudando desenvolvimento de sistemas! 👾
+
 
 <div align="center">
   <a href="https://github.com/LeilaVital">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeilaVital&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeilaVital&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeilaVital&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Leila-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
